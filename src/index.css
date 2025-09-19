@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Outfit:wght@100..900&display=swap');
+
+/* Light Theme (Default) */
+:root {
+  --primary-accent: #2E7D32; /* Earthy Green */
+  --primary-accent-hover: #E8F5E9; /* Light Green for hover states */
+  --text-dark: #212121;
+  --text-medium: #424242;
+  --text-light: #757575;
+  --background-light: #fff;
+  --background-component: #fff;
+  --footer-bg: #323232;
+  --footer-text: #e0e0e0;
+  --border-color: #ddd;
+}
+
+/* Dark Theme */
+body[data-theme="dark"] {
+  --primary-accent: #4CAF50; /* A slightly brighter green for dark mode */
+  --primary-accent-hover: #388E3C; /* A darker green for hover */
+  --text-dark: #ECEFF1; /* Off-white for main text */
+  --text-medium: #B0BEC5; /* Lighter grey for secondary text */
+  --text-light: #78909C; /* Mid-grey for less important text */
+  --background-light: #212121; /* Dark grey for main background */
+  --background-component: #37474F; /* Slightly lighter for components like popups */
+  --footer-bg: #1a1a1a; /* Very dark grey for footer */
+  --footer-text: #B0BEC5;
+  --border-color: #455A64;
+}
+*{
+  padding:0 ;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+  scroll-behavior: smooth;
+
+}
+body{
+  background-color: var(--background-light);
+  color: var(--text-dark);
+  min-height: 100vh;
+}
+a{
+  text-decoration:  none;
+  color: inherit;
+}
+.app{
+  width: 80%;
+  margin: auto;
+}
+@keyframes fadeIn 
+{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}

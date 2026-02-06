@@ -1,7 +1,7 @@
 
 
 # Field2Door – Smart Organic Food Subscription Platform
-📌 Project Description
+ Project Description:
 
 Field2Door is a subscription-based web platform designed to deliver organic food, fresh juices, fruits, and pesticide-free vegetables directly to customers. The platform focuses on promoting healthy eating habits by providing curated meal plans and organic product delivery.
 
@@ -15,8 +15,8 @@ Planning healthy meals easily.
 
 Getting personalized recipe recommendations instantly.
 
-🚀 Key Features
-🥗 Subscription & Food Delivery
+Key Features:
+1. Subscription & Food Delivery
 
 Subscription-based organic food delivery.
 
@@ -24,7 +24,7 @@ Fresh vegetables, fruits, juices, and healthy products.
 
 Meal planning support.
 
-🤖 AI Integration
+2. AI Integration
 
 Gemini AI-powered recipe recommendations.
 
@@ -32,7 +32,7 @@ Prompt-based personalized suggestions.
 
 Smart food planning support.
 
-🎨 UI & Experience
+3. UI & Experience
 
 Responsive design using React.
 
@@ -40,7 +40,7 @@ Clean modern interface.
 
 Easy navigation and user interaction.
 
-🛠️ Tech Stack
+4. Tech Stack
 
 Frontend: React.js
 

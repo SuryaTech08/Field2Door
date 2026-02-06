@@ -46,4 +46,4 @@ Frontend: React.js
 
 AI Integration: Gemini AI API
 
-Styling: Tailwind CSS (or your styling framework)
+

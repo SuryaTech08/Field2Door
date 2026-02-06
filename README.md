@@ -1,12 +1,49 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Field2Door – Smart Organic Food Subscription Platform
+📌 Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Field2Door is a subscription-based web platform designed to deliver organic food, fresh juices, fruits, and pesticide-free vegetables directly to customers. The platform focuses on promoting healthy eating habits by providing curated meal plans and organic product delivery.
 
-## Expanding the ESLint configuration
+To enhance user experience, the application integrates Gemini AI to generate personalized recipe suggestions based on user prompts, dietary preferences, and available organic ingredients.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project solves the problem of:
+
+Finding reliable organic food sources.
+
+Planning healthy meals easily.
+
+Getting personalized recipe recommendations instantly.
+
+🚀 Key Features
+🥗 Subscription & Food Delivery
+
+Subscription-based organic food delivery.
+
+Fresh vegetables, fruits, juices, and healthy products.
+
+Meal planning support.
+
+🤖 AI Integration
+
+Gemini AI-powered recipe recommendations.
+
+Prompt-based personalized suggestions.
+
+Smart food planning support.
+
+🎨 UI & Experience
+
+Responsive design using React.
+
+Clean modern interface.
+
+Easy navigation and user interaction.
+
+🛠️ Tech Stack
+
+Frontend: React.js
+
+AI Integration: Gemini AI API
+
+Styling: Tailwind CSS (or your styling framework)
